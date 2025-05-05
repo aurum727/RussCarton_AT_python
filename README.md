@@ -18,4 +18,5 @@
 11) добавление в избранное с проверкой (test_add_products_to_favorite)
 
 pytest -s -v --alluredir=allure-results
+
 allure serve allure-results
