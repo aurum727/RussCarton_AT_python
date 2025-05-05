@@ -1,0 +1,8 @@
+/allure-results/
+/.pytest_cache/
+/allure-results/
+/logs/
+/screen/
+/venv/
+/.idea/
+/tests/.pytest_cache/
