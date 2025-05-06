@@ -4,7 +4,7 @@
 Для запуска проекта использовать python 3.9
 https://www.python.org/ftp/python/3.9.0/python-3.9.0-amd64.exe
 
-Страница регистрации авторизации
+Список проверок:
 1) загрузка станицы с доступной кнопкой профиля пользователя (test_check_profile_menu)
 2) проверка перехода на страница профиля пользователя (test_check_going_profile_page)
 3) проверка авторизации (test_authentication_user)
